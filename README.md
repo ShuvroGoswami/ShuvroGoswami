@@ -4,7 +4,7 @@
 
 ```javascript
 const thai = {
-  pronouns: "she" | "her",
+  pronouns: "he" | "his",
   code: [Javascript, firebase, HTML, CSS, react,expressjs, mongodb],
   tools: [React, react routerdom, Nodejs, expressjs, mongodb],
   techCommunities: {
