@@ -4,15 +4,14 @@ test
 ```javascript
 const thai = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  code: [Javascript, firebase, HTML, CSS, react,expressjs, mongodb],
+  tools: [React, react routerdom, Nodejs, expressjs, mongodb],
   techCommunities: {
                         coorganizer: "AfroPython",
                         speaker: "Latinity",
                         mentor: "EducaTRANSforma"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and Javascript"
 }
 ```
 
